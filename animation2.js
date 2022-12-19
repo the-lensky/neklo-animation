@@ -26,8 +26,8 @@ function Animation(options) {
     }, options);
 
     let settings = {
-        bgColor: 0x55fff5,
-        cameraDistance: 14,
+        bgColor: 0xffffff,
+        cameraDistance: 11,
         timeInc: 0.30,
         pointSize: 0.700,
         gridSize: 250,
